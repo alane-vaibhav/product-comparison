@@ -18,6 +18,16 @@ Start the dev server,
 ```bash
 $ npm run dev
 ```
+features:
+
+1. Theme switch(Dark/light mode)
+2. Product Listing with search and filter implementation
+3. Comparision between two or three products
+4. Delete feature in comparison
+5. Saving user selection in local storage
+6. Responsive UI with MUI
+```
+```
 <img width="1440" height="777" alt="Screenshot 2025-07-19 at 4 45 44 PM" src="https://github.com/user-attachments/assets/95f8d69d-1c4b-44b1-bb75-2d28ba2431cf" />
 <img width="1440" height="778" alt="Screenshot 2025-07-19 at 4 46 06 PM" src="https://github.com/user-attachments/assets/da2148fd-cd4e-45de-b976-546e2f2036a0" />
 <img width="1440" height="779" alt="Screenshot 2025-07-19 at 4 46 19 PM" src="https://github.com/user-attachments/assets/983f7cd6-1cd1-40fd-b2e1-a7d516e6fcb8" />
