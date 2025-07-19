@@ -23,6 +23,7 @@ $ npm run dev
 <img width="1440" height="779" alt="Screenshot 2025-07-19 at 4 46 19 PM" src="https://github.com/user-attachments/assets/983f7cd6-1cd1-40fd-b2e1-a7d516e6fcb8" />
 <img width="1440" height="780" alt="Screenshot 2025-07-19 at 4 46 31 PM" src="https://github.com/user-attachments/assets/2ed305e4-3f27-4d89-9297-5235a1457f80" />
 <img width="1440" height="778" alt="Screenshot 2025-07-19 at 4 46 47 PM" src="https://github.com/user-attachments/assets/5156c321-2ff7-4357-8696-8877aa311b58" />
+<img width="1440" height="486" alt="Screenshot 2025-07-19 at 4 50 56 PM" src="https://github.com/user-attachments/assets/15f197dc-901b-4491-9033-9f2994f6ad24" />
 
 
 
