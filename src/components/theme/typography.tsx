@@ -1,0 +1,63 @@
+export default {
+  fontFamily: "Montserrat",
+  fontWeightRegular: 400,
+  fontWeightMedium: 500,
+  fontWeightSemiBold: 600,
+  fontWeightBold: 700,
+  fontWeightExtraBold: 800,
+  fontWeightExtraBlack: 900,
+  H1: {
+    fontSize: "64px",
+    fontStyle: "normal",
+    fontWeight: 900,
+    lineHeight: "72px",
+  },
+  h1: {
+    fontSize: "42px",
+    fontStyle: "normal",
+    fontWeight: 700,
+    lineHeight: "48px",
+    "@media (max-width:600px)": {
+      fontSize: "24px",
+      fontStyle: "normal",
+      fontWeight: 700,
+      lineHeight: "30px",
+    },
+  },
+  h2: {
+    fontSize: "22px",
+    fontStyle: "normal",
+    fontWeight: 700,
+    lineHeight: "26px",
+    "@media (max-width:600px)": {
+      fontSize: "16px",
+      fontStyle: "normal",
+      fontWeight: 600,
+      lineHeight: "22px",
+    },
+  },
+  h3: {
+    fontSize: "18px",
+    fontStyle: "normal",
+    fontWeight: 600,
+    lineHeight: "24px",
+    "@media (max-width:600px)": {
+      fontSize: "14px",
+      fontStyle: "normal",
+      fontWeight: 600,
+      lineHeight: "20px",
+    },
+  },
+  bodyStrongLarge: {
+    fontSize: "16px",
+    fontStyle: "normal",
+    fontWeight: 500,
+    lineHeight: "20px",
+    "@media (max-width:600px)": {
+      fontSize: "14px",
+      fontStyle: "normal",
+      fontWeight: 400,
+      lineHeight: "18px",
+    },
+  },
+};
